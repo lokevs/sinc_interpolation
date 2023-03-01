@@ -2,7 +2,7 @@
 
 An R-script (sinc_interpolation.R) with the sinc function and the sinc interpolation function. The sinc interpolation function can be used to generate high-resolved temperature data from sparse measurements.
 
-The script contains a step-by-step guide for employing sinc interpolation over environmental temperature (or other) data, with figures along the way, including how to Fourier transform temperature data and visualize it in the frequency domain, and how to impute missing temperatures. The script has no dependencies but utilizes some data from temperature.txt (a temperature time-series).
+The script contains a step-by-step guide for employing sinc interpolation over environmental temperature (or other) data, with figures along the way, including how to Fourier transform temperature data and visualize it in the frequency domain, and how to impute missing temperatures. The script has no dependencies but utilizes some data from temperature.txt (a temperature time-series). I used R version 4.1.3.
 
 Contents:
 
